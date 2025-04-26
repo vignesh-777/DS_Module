@@ -1,5 +1,5 @@
 # Ex1(b) Conversion of the infix expression into postfix expression
-## DATE: 24/02/2025
+## DATE: 22/02/2025
 ## AIM:
 To write a C program to convert the infix expression into postfix form using stack by following the operator precedence and associative rule.
 
